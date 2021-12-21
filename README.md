@@ -1,2 +1,2 @@
 # nothing to do here...
-[moshi-link](moshi.link)
+[moshi-link](http://moshi.link)
